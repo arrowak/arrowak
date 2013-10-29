@@ -4,7 +4,7 @@ $(document).ready(function(){
 		var elem = $('.'+name);
 		// console.log($('.'+name).position().top);
 		$('html, body').animate({
-			scrollTop: elem.offset().top - 100
+			scrollTop: elem.offset().top - 200
 		}, 500);
 
 	});
