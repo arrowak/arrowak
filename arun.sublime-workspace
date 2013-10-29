@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nei",
+				"neighbor"
+			],
+			[
+				"bmo",
+				"bmodalclose"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"curr",
+				"currentIndex"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"chan",
+				"changeControlMetas"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"pre",
+				"previndex"
+			],
+			[
+				"disp",
+				"displayDates"
+			],
+			[
+				"curren",
+				"currentDate"
+			],
+			[
+				"dis",
+				"displayDates"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"sho",
+				"showPinnedEvent"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"events",
+				"eventsLoaded"
+			],
+			[
+				"clo",
+				"closeloader"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"get",
+				"getShortDate"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"split",
+				"splittedDate"
+			],
+			[
+				"spli",
+				"splittedDate"
+			],
+			[
+				"load",
+				"loadingMore"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"singl",
+				"singleEventDesc"
+			],
+			[
+				"trim",
+				"trimText"
+			],
+			[
+				"sing",
+				"singleEventDesc"
+			],
+			[
+				"prev",
+				"prevCount"
+			],
+			[
+				"single",
+				"singleEventFlag"
+			],
+			[
+				"wor",
+				"wordCount"
+			],
+			[
+				"word",
+				"wordCounr"
+			],
+			[
+				"sh",
+				"showEvent"
+			],
+			[
+				"upda",
+				"updateBoardCount"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"cl",
+				"closeloader"
+			],
+			[
+				"s",
+				"showloader"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"serv",
+				"SFTP: Setup Server…"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/arun.com/index.html",
+		"/C/Users/Arun/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382952720/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/footer-homer.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382953925/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/app.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382954139/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/models.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382954171/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/router.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382954206/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/collections.js",
+		"/C/Users/Arun/AppData/Roaming/Sublime Text 2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382951789/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/header-homer.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1382951640/sf.wazaap.in/var/www/sf/htdocs/wp-includes/class.wp-scripts.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381467756/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/header-homer.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381400077/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/app.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381400218/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/collections.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381400233/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/router.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381400253/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/models.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381400269/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/views.js",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381408284/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/footer-homer.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381479617/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/page-devpage.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381734497/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/css/look.css",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381404411/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/js/actions.js",
+		"/C/Users/Public/Documents/attendanceDB.sql",
+		"/C/wamp/bin/apache/Apache2.4.4/bin/php.ini",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381479557/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/page-devpage.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381403147/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/page-devpage.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381408090/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/header-homer.php",
+		"/C/users/arun/appdata/local/temp/sublime-sftp-browse-1381404312/sf.wazaap.in/var/www/sf/htdocs/wp-content/themes/wazaap_nextgen/css/look.css",
+		"/C/Users/Arun/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/sf.wazaap.in",
+		"/C/Users/Arun/library/config/database.yml",
+		"/C/Users/Arun/library/Gemfile",
+		"/C/wamp/www/zaapin/workspace/zaapin-new/mvc/models.js",
+		"/C/wamp/www/zaapin/workspace/zaapin-new/mvc/collections.js",
+		"/C/wamp/www/zaapin/workspace/zaapin-new/mvc/views.js",
+		"/C/wamp/www/zaapin/workspace/zaapin-new/index.html",
+		"/C/wamp/www/zaapin/workspace/zaapin-new/api.json",
+		"/F/Backup/Liquidation/liquidTest/Globals.cs",
+		"/F/babbler/tiss/workspace/app/models/ability.rb",
+		"/F/babbler/tiss/workspace/config/routes.rb",
+		"/F/babbler/tiss/workspace/app/controllers/messages_controller.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".no",
+			"Dates",
+			"dates",
+			"previndex",
+			"prev",
+			".cat",
+			"f0f0f0",
+			"bread",
+			"single-pa",
+			".single-pin",
+			"neighor",
+			"your board",
+			"menu",
+			"related",
+			"board",
+			"modal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"neighbor",
+			"bmodal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"abi",
+				"app/models/ability.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

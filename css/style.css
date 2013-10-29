@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'), url(http://themes.googleusercontent.com/static/fonts/opensanscondensed/v6/gk5FxslNkTTHtojXrkp-xF1YPouZEKgzpqZW9wN-3Ek.woff) format('woff');
+}
+
+
+body{
+	background: #031628;
+	color: #D0D0D0;
+	font-family: 'Open Sans Condensed';
+	font-size: 16px;
+}
+
+h1,h2,h3,h4,h5{
+	font-family: 'Open Sans Condensed';
+}
+
+.nav-bar{
+	position: fixed;
+	right: 2%;
+	top: 0%;
+	background: #031628;
+	z-index: 10;
+}
+
+.nav-bar ul li{
+	display: inline-block;
+	padding: 10px;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.nav-bar ul li:hover{
+	border-bottom: 2px solid white;
+}
+
+
+.nav-bar ul{
+	list-style-type: none;
+}
+
+.greeting{
+	margin-top: 15%;
+}
+
+.greeting h1{
+	font-family: 'Open Sans Condensed';
+	font-size: 60pt;
+}
+
+.intro{
+	font-size: 20pt;
+}
+
+.skills{
+	margin-top: 40%;
+	min-height: 90%;
+}
+
+.skillsHead{
+	border-bottom: 2px solid #D0D0D0;
+	padding: 5px;
+	margin-bottom: 50px;
+}
+
+.works{
+	margin-top: 40%;
+	min-height: 90%;
+}
+
+.workImg{
+	margin-top: 20px;
+}
+
+/*
+.workImg:hover{
+	-webkit-filter: grayscale(0);
+}
+*/
+.works a, .work a:hover{
+	color: #D0D0D0;
+	text-decoration: none;
+}
+
+.connect{
+	margin-top: 40%;
+	min-height: 90%;
+}
+
+.connectDetails{
+	background: white;
+	color: black;
+}
+
+ .connect a, .connect a:hover{
+ 	color: black;
+ 	text-decoration: none;
+ }
